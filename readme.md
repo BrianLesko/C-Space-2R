@@ -4,7 +4,7 @@ This code implements the control of a virtual double joint robot using Sony's Du
 
 &nbsp;
 
-<div align="center"><img src="docs/preview.gif" width="800"></div>
+<div align="center"><img src="docs/preview.png" width="800"></div>
 
 &nbsp;
 
