@@ -1,6 +1,6 @@
 
 # 2RC-Space
-This code implements the control of a virtual double joint robot using Sony's Dualsense (PS5) controller. The robot is soley visualized in its configuration space, using a 2D plot of the joint values. This project is written in [Pure Python](https://github.com/BrianLesko/R2-Dualsense2/blob/main/app.py) in 69 lines of code. Created by Brian Lesko for Learning Purposes.
+This code implements the control of a virtual double joint robot using Sony's Dualsense (PS5) controller. The robot is soley visualized in its configuration space - a torus - here the torus is flattened into a 2D plot of the joint values. This project is written in [Pure Python](https://github.com/BrianLesko/R2-Dualsense2/blob/main/app.py) in 69 lines of code. Created by Brian Lesko for Learning Purposes.
 
 &nbsp;
 
